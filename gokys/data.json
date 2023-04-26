@@ -1,0 +1,1634 @@
+{
+    "chapter1": {
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetohelpapersonwithaccessibilityissuesinputinstructionsintoalaptopbyusingapen.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "stylus"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetoprovidesecureaccesstothecentralserverroomusingaretinalscan.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "biometric scanner"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetohelpwhenrepairinganairplaneandthatwillallowthecustomertoseeandinteractwiththerepairmanualatthesametime.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "AR headset"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetomanuallyinputtextforanewnetworkingtextbookthatthecustomeriswriting.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "keyboard"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetoallowsecureaccesstothemaindoorsofthecompanybyswipinganidcard.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "magstripe reader"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetoallowuserstotapandpayfortheirpurchases.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        " NFC device"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetodisplayapromotionalpresentationtoalargeaudienceataconference.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "projector"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetoscansomeoldfamilyphotosintoalaptop.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "flatbed scanner"
+      ],
+      "acustomercomesintoacomputerpartsandservicestore.thecustomerislookingforadevicetotrainpilotshowtolandandtakeoffinacomputersimulationenvironment.whatdeviceshouldthestoreownerrecommendtoaccomplishtherequiredtask?": [
+        "joystick or gamepad"
+      ],
+      "whichcharacteristicdescribesddr3sdram?": [
+        "chips that run at clock speeds of 800 MHz and have a connector with 240 pins"
+      ],
+      "whichcharacteristicdescribeseccmemory?": [
+        "chips that can detect multiple bit errors and correct single bit errors in memory"
+      ],
+      "whichcharacteristicdescribesgddrsdram?": [
+        "chips specifically designed for video graphics that are used in conjunction with a dedicated GPU"
+      ],
+      "whichcharacteristicdescribesrom?": [
+        "a chip that cannot be erased or rewritten and is now obsolete"
+      ],
+      "whichcharacteristicdescribesadip?": [
+        "an individual memory chip that has dual rows of pins used to attach it to the motherboard"
+      ],
+      "whichcharacteristicdescribesprom?": [
+        " chips that are manufactured blank and then can be programmed once by a PROM programmer"
+      ],
+      "whichcharacteristicdescribesasimm?": [
+        "a small circuit board that holds several memory chips and has a 30- or 72-pin configuration"
+      ],
+      "whichcharacteristicdescribeseprom?": [
+        "a chip that is nonvolatile and can be erased by exposing it to strong ultraviolet light"
+      ],
+      "atechnicianlooksatamotherboardandseesa24-pinconnector.whatcomponentwouldconnecttothemotherboardthroughtheuseofthis24-pinconnector?": [
+        "power supply"
+      ],
+      "whichtwoactivitiesarenormallycontrolledbythenorthbridgepartofthechipset?(choosetwo.)": [
+        "access to the RAM",
+        "access to the video card"
+      ],
+      "whichtwocomponentsusuallyinterfacedirectlywiththesouthbridgechipsetonthemotherboard?(choosetwo.)": [
+        "USB ports",
+        "hard drive"
+      ],
+      "whichstatementdescribestheproperuseofananti-staticwriststrap?": [
+        "An anti-static wrist strap should make contact with the skin."
+      ],
+      "atechnicianisbuildingathickclientworkstationthatwouldbeusedtorunadatabaseandwantstoensurethebestprotectionagainsterrors.whattypeofmemorywouldbebestsuitedforthis?": [
+        "ECC"
+      ],
+      "whichtypeofmemoryisprimarilyusedascachememory?": [
+        "SRAM"
+      ],
+      "whichadapterwouldatechnicianinstallinadesktopcomputertoenableavideosignaltoberecordedfromavideorecordertothecomputerharddrive?": [
+        "video capture card"
+      ],
+      "whichtwostoragedevicesuseamagneticmediumforstoringdata?(choosetwo.)": [
+        " tape drive",
+        "hard disk drive"
+      ],
+      "whichunitofmeasurementisusedtoindicatetheharddrivespeed?": [
+        "revolutions per minute"
+      ],
+      "whatthreevoltagesarecommonlyprovidedbythepowersupplytothevariouscomponentsinsidethecomputer?(choosethree.)": [
+        "3.3 volts ",
+        "5 volts",
+        "12 volts"
+      ],
+      "acustomerneedsadditionalstoragespaceonanoldercomputer.whatwillthetechnicianlookatinthecomputertodetermineifanadditionalharddrivecanbeadded?": [
+        "an available PATA/SATA connection"
+      ],
+      "whichcomponentcontrolsthecommunicationsandinteractionsbetweenthecpuandothercomponentsonthemotherboard?": [
+        "chipset"
+      ],
+      "whichstatementdescribesacharacteristicofgddrsynchronousdynamicram?": [
+        "It is used in conjunction with a dedicated GPU."
+      ],
+      "harddrivesinagrocerywarehousekeepfailingbecauseofvibrationsinthewarehouseenvironment.whatwouldbeapossiblesolutionforthishighfailurerate?": [
+        " Install an SSD drive in each computer."
+      ],
+      "refertotheexhibit.whichtwoporttypesareshowninthegraphic?(choosetwo.)": [
+        "network",
+        "USB"
+      ],
+      "fromwhichtypeofdatastoragedoesthecpuloadinformationforprocessingduringnormaloperation?": [
+        "RAM"
+      ],
+      "refertotheexhibit.whichtypeofadapterisshown?": [
+        "network interface"
+      ],
+      "whichtypeofdevicewouldbeusedonalaptoptoverifytheidentityofauser?": [
+        "a biometric identification device"
+      ],
+      "whichtwodevicesareconsideredinputdevices?(choosetwo.)": [
+        " biometric authentication device",
+        "digital camera"
+      ],
+      "whatisanactivecoolingsolutionforapc?": [
+        "Add an additional case fan."
+      ],
+      "whichtoolcanprotectcomputercomponentsfromtheeffectsofesd?": [
+        "antistatic wrist strap"
+      ],
+      "whichtypeofinterfacewasoriginallydevelopedforhigh-definitiontelevisionsandisalsopopulartousewithcomputerstoconnectaudioandvideodevices?": [
+        "HDMI"
+      ],
+      "whichstatementdescribesacharacteristicofsraminapc?": [
+        "It is used for cache memory."
+      ],
+      "acustomerhasacomputerforahomebusiness,butwantstohaveanothercomputerasawebserver.whatwouldbethebestsolutionforthecustomertosharethemonitor,mouse,andkeyboardbetweenthetwocomputers?": [
+        "KVM switch"
+      ]
+    },
+    "chapter2": {
+      "whatisagoodsafetyprecautiontotakewhenopeningacomputercase?": [
+        "Place tape over the case edges that are sharp."
+      ],
+      "whatdoesthe“a”inp-a-s-sremindapersontodowhileusingafireextinguisher?": [
+        "Aim the fire extinguisher at the base of the fire."
+      ],
+      "howisapowersupplycommonlyattachedtoatowercase?": [
+        "screws"
+      ],
+      "atechnicianisreplacingapowersupply.whichtwofactorsshouldthetechnicianconsiderwhenobtainingthereplacementpart?(choosetwo.)": [
+        "type of case",
+        "wattage"
+      ],
+      "atechnicianisinstallingadditionalmemoryinacomputer.howcanthetechnicianguaranteethatthememoryiscorrectlyaligned?": [
+        "A notch in the memory module should be aligned with a notch in the memory slot."
+      ],
+      "whatisusedtopreventthemotherboardfromtouchingmetalportionsofthecomputercase?": [
+        "standoffs"
+      ],
+      "whichstatementdescribesthepurposeofani/oconnectorplate?": [
+        "It makes the I/O ports of the motherboard available for connection in a variety of computer cases."
+      ],
+      "whatarethreeimportantconsiderationswheninstallingacpuonamotherboard?(choosethree.)": [
+        "Antistatic precautions are taken.",
+        "The CPU is correctly aligned and placed in the socket.",
+        "The CPU heat sink and fan assembly are correctly installed."
+      ],
+      "whenanewpcisbeingbuilt,whichcomponenthasthemostinfluencewhenselectingthecaseandpowersupply?": [
+        "motherboard"
+      ],
+      "whichtwofactorsmustbeconsideredwhenreplacingoldrammodulesinapc?(choosetwo.)": [
+        "The new RAM must be compatible with the motherboard. ",
+        "The speed of the new RAM must be supported by the chipset."
+      ],
+      "refertotheexhibit.inwhichsectionofthemotherboardwouldamemorymodulebeinstalled?": [
+        "section C"
+      ],
+      "whichtypeofmotherboardexpansionslotsendsdataonebitatatimeoveraserialbus?": [
+        "PCIe"
+      ],
+      "whichpcmotherboardbusisusedtoconnectthecputoramandothermotherboardcomponents?": [
+        " front-side"
+      ],
+      "whereisbufferedmemorycommonlyused?": [
+        "servers"
+      ],
+      "atechnicianhasbeenaskedtoupgradeaprocessorandneedstodosomeresearch.thecomputerisjustacoupleofyearsold.whataretwotypesofprocessorpackagesthatcouldbeusedinsidethecomputer?(choosetwo.)": [
+        "LGA",
+        "PGA"
+      ],
+      "astudentislookingtoaddmemoryinordertospeedupatowercomputer.whichtypeofmemorymoduleshouldthestudentbelookingfor?": [
+        "DIMM"
+      ],
+      "whichtypeofdriveistypicallyinstalledina5.25inch(13.34cm)bay?": [
+        "optical drive"
+      ],
+      "atechnicianhasbeenaskedtoorderareplacementinternalsatahdd.betweenwhichtwoformfactorswillthetechnicianhavetochoose?(choosetwo.)": [
+        "2.5 inch (6.35 cm) ",
+        "3.5 inch (8.89 cm)"
+      ],
+      "whileshoppingforareplacementmotherboard,acustomerdecidestoalsopurchaseanewmechanicalharddriveandasksthetechnicalsalespersonforadvice.whichstorageinterfaceshouldthesalespersonrecommendforthemotherboardandnewdrive?": [
+        "SATA"
+      ],
+      "whichtypeofmotherboardexpansionslothasfourtypesrangingfromx1tox16witheachtypehavingadifferentlengthofexpansionslot?": [
+        "PCIe"
+      ],
+      "atechnicianisinstallinganewhigh-endvideoadaptercardintoanexpansionslotonamotherboard.whatmaybeneededtooperatethisvideoadaptercard?": [
+        "Two 8-pin power connectors"
+      ],
+      "refertotheexhibit.whichtypeofexpansionslotisshown?": [
+        "PCIe x16"
+      ],
+      "refertotheexhibit.whichdeviceisshown?": [
+        "media reader"
+      ],
+      "whenassemblingapc,howispin1identifiedonthefrontpanelcablessothatitcanbealignedproperlywithpin1onthemotherboardpanelconnector?": [
+        "by a small arrow or notch"
+      ]
+    },
+    "chapter3": {
+      "matchtheraidtechnologytermstothedescription.(notalloptionsareused.)": [],
+      "whichtwoconsiderationswouldbeofthegreatestimportancewhenbuildingaworkstationthatwillrunmultiplevirtualmachines?(choosetwo.)": [
+        " amount of RAM ",
+        "number of CPU cores"
+      ],
+      "whichtwocomponentsarecommonlyreplacedwhenacomputersystemwithanewermotherboardisbeingupgraded?(choosetwo.)": [
+        "RAM",
+        "CPU"
+      ],
+      "whataretworeasonsforinstallingasecondharddiskdriveinsideanexistingcomputer?(choosetwo.)": [
+        "to support a RAID array",
+        "to store the system swap file"
+      ],
+      "atechnicianhasjustfinishedassemblinganewcomputer.whenthecomputerispoweredupforthefirsttime,thepostdiscoversaproblem.howdoesthepostindicatetheerror?": [
+        "It issues a number of short beeps."
+      ],
+      "whatisafunctionofthebios?": [
+        "performs a check on all internal components"
+      ],
+      "atechnicianhasassembledanewcomputerandmustnowconfigurethebios.atwhichpointmustakeybepressedtostartthebiossetupprogram?": [
+        "during the POST"
+      ],
+      "howdoesaninlineupsprotectcomputerequipmentagainstelectricalpowerbrownoutsandblackouts?": [
+        "by using a battery to supply a constant level of voltage"
+      ],
+      "whichconditionreferstoareducedvoltagelevelofacpowerthatlastsforanextendedperiodoftime?": [
+        " brownout"
+      ],
+      "howshouldatechniciandisposeofanemptyinkjetprintercartridge?": [
+        "Follow local regulations for disposal."
+      ],
+      "whatmakescrtmonitordisposaldangerousforatechnicianwhoishandlingthedisposal?": [
+        "potential residual high voltage"
+      ],
+      "whichtypeofinterfacewasoriginallydevelopedforhigh-definitiontelevisionsandisalsopopulartousewithcomputerstoconnectaudioandvideodevices?": [
+        "HDMI"
+      ],
+      "whatisindicatedbythecontrastratioofamonitor?": [
+        "the difference in the intensity of light between the brightest white and darkest black that can be displayed"
+      ],
+      "whatelectricalunitreferstothenumberofelectronsmovingthroughacircuitpersecond?": [
+        "current"
+      ],
+      "whatcharacteristicofelectricityisexpressedinwatts?": [
+        "the work required to move electrons through a circuit multiplied by the number of electrons flowing through a circuit per second"
+      ],
+      "whichisabiossecurityfeaturethatcanpreventdatafrombeingreadfromaharddriveeveniftheharddriveismovedtoanothercomputer?": [
+        " drive encryption"
+      ],
+      "whatdataisstoredinthecmosmemorychip?": [
+        "BIOS settings"
+      ],
+      "whatisthepurposeoflojack?": [
+        "It allows the owner of a device to remotely locate, lock, or delete all files from the device."
+      ],
+      "whatisonepurposeofadjustingtheclockspeedwithinthebiosconfigurationsettings?": [
+        "to allow the computer to run slower and cooler"
+      ],
+      "auserplayingagameonagamingpcwithastandardeide5400rpmharddrivefindstheperformanceunsatisfactory.whichharddriveupgradewouldimproveperformancewhileprovidingmorereliabilityandmoreenergyefficiency?": [
+        "an SSD"
+      ],
+      "whichsecurityfeatureinmoderncpusprotectsmemoryareasthatcontainpartoftheoperatingsystemfrommalwareattacks?": [
+        "execute disable bit"
+      ],
+      "auserreportsthateverymorningwhenaparticularcomputeristurnedon,theconfigurationsettingsonthatcomputerhavetobereset.whatactionshouldbetakentoremedythissituation?": [
+        "Replace the CMOS battery."
+      ],
+      "adataanalysthasaskedatechniciantohelpprotectlocallystoreddatabyinstallingaraid.whatistheminimumnumberofdrivesthetechnicianhastoinstallifconfiguringaraidlevel6?": [
+        "3"
+      ],
+      "adataanalysthasaskedatechniciantohelpprotectlocallystoreddatabyinstallingaraid.whatistheminimumnumberofdrivesthetechnicianhastoinstallifconfiguringaraidlevel10?": [
+        "4"
+      ],
+      "adataanalysthasaskedatechniciantohelpprotectlocallystoreddatabyinstallingaraid.whatistheminimumnumberofdrivesthetechnicianhastoinstallifconfiguringaraidlevel1?": [
+        "2"
+      ],
+      "adataanalysthasaskedatechniciantohelpprotectlocallystoreddatabyinstallingaraid.whatistheminimumnumberofdrivesthetechnicianhastoinstallifconfiguringaraidlevel5?": [
+        "3"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerneedsprotectionifonedrivefails,fastaccess,anddrivecapacity.whichraidshouldthetechnicianinstall?": [
+        "RAID 5"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerneedsprotectioniftwodrivefailsandwantsasmuchdrivecapacityaspossible.whichraidshouldthetechnicianinstall?": [
+        " RAID 6"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerneedsprotectionforonedrivefailureandonlyhasroominthecomputerfortwodrives.whichraidshouldthetechnicianinstall?": [
+        "RAID 1"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantsraidandfulldrivecapacity,butdoesnotcareaboutadrivefailure,becausealldataisconstantlybackedup.thecomputerwheretheraidistobeinstalledonlyhasroomfortwodrives.whichraidshouldthetechnicianinstall?": [
+        "RAID 0"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantsdatatobestoredontwodrivesthatareusedtomaximumcapacityanddoesnotcareifasingledrivefails,becausedataisbackeduphourly.whichraidshouldthetechnicianinstall?": [
+        "RAID 0"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantsdatatobestoredonthreedrivesandprotectionforonedrivefailure.whichraidshouldthetechnicianinstall?": [
+        "RAID 5"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantsthreedrivestobeusedandprotectionifonedrivefails.whichraidshouldthetechnicianinstall?": [
+        "RAID 5"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantstoincorporatemirroringandstripingaspartoftheraid.whichraidshouldthetechnicianinstall?": [
+        "RAID 10"
+      ],
+      "atechnicianhasbeenaskedtoconfigureseveralcomputerswithraid.thecustomerwantsthebestraidpossiblewiththreedrivesused.whichraidshouldthetechnicianinstall?": [
+        "RAID 6"
+      ],
+      "atechnicianisselectingapcthatwillbeusedbyauserasathinclient.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        "network connection to a server"
+      ],
+      "atechnicianisselectingawebserverthatwillbeusedtohostmultiplegamingapplications.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        "powerful processor"
+      ],
+      "atechnicianisselectingapcthatwillbeusedbyasongwritertomixtracks.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        "specialized audio card"
+      ],
+      "atechnicianisselectingalaptopthatwillbeusedbyateleworkerforconnectingtotheinternetwhiletravelinganywhere.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        "cellular card"
+      ],
+      "atechnicianisselectingaserverthatwillbeusedbyacloudproviderfordatastorage.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        " multiple large hard drives"
+      ],
+      "atechnicianisselectingaserverthatwillbeusedbyacloudprovidertoprovidefaulttoleranceforlargequantitiesofstoreddata.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        " RAID"
+      ],
+      "atechnicianisselectingapcthatwillbeusedbyanemployeewhowantstoshareakeyboardandmouseamongthreedevices.whatisamajorconsiderationthatneedstobetakenintoaccount?": [
+        "KVM switch"
+      ]
+    },
+    "chapter4": {
+      "awebdesignerinstalledthelatestvideoeditingsoftwareandnownoticesthatwhentheapplicationloads,itrespondsslowly.alsotheharddiskledisconstantlyflashingwhentheapplicationisinuse.whatisasolutiontosolvetheperformanceproblem?": [
+        "adding more RAM"
+      ],
+      "anemployeereportsthateachtimeaworkstationisstarteditlocksupafterabout5minutesofuse.whatisthemostlikelycauseoftheproblem?": [
+        "The CPU is overheating."
+      ],
+      "atechnicianistroubleshootinga4-year-oldcomputerthattakesalongtimetoboot,andidentifiesthatthebiosrediscoversallthehardwareateveryboot.whatactionwouldfixthisproblem?": [
+        "Replace the CMOS battery."
+      ],
+      "auserhasnoticedthattheharddriveledonthefrontofthecomputerhasstoppedworking.however,thecomputerseemstobefunctioningnormally.whatisthemostlikelycauseoftheproblem?": [
+        "The hard drive LED cable has come loose from the motherboard."
+      ],
+      "duringthetroubleshootingofapcthatwillnotboot,itissuspectedthattheproblemiswiththerammodules.therammodulesareremovedandputintoanotherpc,whichsuccessfullypowerson.therammodulesarethenputbackintotheoriginalpcanditnowsuccessfullypowersonaswell.whatwasthemostlikelycauseoftheproblem?": [
+        "The RAM modules were not seated firmly."
+      ],
+      "whatcomponentismostsuspectifaburningelectronicssmellisevident?": [
+        "power supply"
+      ],
+      "whentroubleshootingacomputer,wherecanatechnicianfindupdatedinformationabouterrorscausedbythesystem,theuser,orthesoftware?": [
+        " Event Viewer"
+      ],
+      "duringwhatstepinthetroubleshootingprocessdoesthetechniciandemonstratetothecustomerhowthesolutioncorrectedtheproblem?": [
+        "Document the findings, actions, and outcomes."
+      ],
+      "ifatechnicianisunabletocreateabackupofdataonacustomercomputer,whatthreepiecesofinformationshouldthetechnicianincludeontheliabilityreleaseformsignedbythecustomerbeforebeginningwork?(choosethree.)": [
+        "permission to work on the computer without a current backup available",
+        "a release from liability if data is lost or corrupted",
+        "a description of the work to be performed"
+      ],
+      "whatshouldatechniciandobeforebeginninganytroubleshootingstepsonacustomercomputer?": [
+        "Perform a data backup."
+      ],
+      "afterconsultingthemanufacturermanuals,atechnicianappliesaseriesofrecommendedsolutionsthatresolveaproblemwithaworkstationcomputer.whatisthenextstepinthetroubleshootingprocessthatthetechnicianshouldperform?": [
+        "Verify the solution and confirm full system functionality."
+      ],
+      "acustomerasksforasolutiontoaprinterproblemthatisbeyondtheknowledgelevelofthetechnician.whatshouldthetechniciando?": [
+        "Gather as much informatio​n as possible and escalate the problem."
+      ],
+      "acomputertechnicianperformedanumberofactionstocorrectaproblem.someactionsdidnotsolvetheproblem,buteventuallyasolutionwasfound.whatshouldbedocumented?": [
+        "everything that was done to try to solve the problem"
+      ],
+      "aspecificcomputerhasanissuethatcouldnotberesolvedbythehelpdesktechnician.theon-sitetechnicianfindsthatwindowsupdateshavebeendisabled.thetechnicianre-enablestheupdateservice,configuresthecomputerforautomaticupdates,downloadsandinstallsallmissingupdates,ensuresthecomputerbootssuccessfully,andverifieswiththecustomerthattheissuehasbeenresolved.whichstep,ifany,isnext?": [
+        "Document the findings, actions, and outcomes."
+      ],
+      "ahelpdesktechniciantakesacall,“goodmorning,thisisthehelpdesk.mynameisgreg.howmayihelpyoutoday?”thefranticcallerstates,“mycomputerwillnotturnonandihaveapresentationin15minutes.”thetechnicianresponds,“nowcalmdownandletusseewhatwecando.”thetechnicianthenproceedstoleadthecallerthroughtheprocessofcheckingpowercablesandpowerlights.whichtroubleshootingstepisbeingusedatthispoint?": [
+        "Identify the problem."
+      ],
+      "whatisthepurposeofdocumentingtheinformationthatisobtainedfromthecustomerintheworkorder?": [
+        "to use the information to aid in solving the problem"
+      ],
+      "whatisthenextstepafterapossiblesolutionisimplementedduringatroubleshootingprocess?": [
+        "Verify the full system functionality and apply maintenance procedures."
+      ],
+      "anemployeereportsthattheoutputofaworkstationdisplayisdistorted.thetechnicianchecksthemanufacturerwebsiteanddownloadsthelatestversionofthevideodriver.afterthevideodriverisinstalled,whatshouldthetechniciandonext?": [
+        "Open a video editing application to verify the video performance."
+      ],
+      "whichtwotypesofdatashouldbebackedupbeforetroubleshootingacomputerforacustomer?(choosetwo.)": [
+        "Internet Explorer favorites files",
+        "documents that are created by the customer"
+      ],
+      "inwhichstepofthetroubleshootingprocesswouldatechnicianhavetodomoreresearchontheinternetorwithinthecomputermanualinordertosolveaproblem?": [
+        "Establish a plan of action to resolve the problem and implement the solution."
+      ],
+      "whatarethreebenefitsofcomputerpreventivemaintenance?(choosethree.)": [
+        "improvement in data protection ",
+        "extension of the life of components",
+        "reduction in the number of equipment failures"
+      ],
+      "whatisthebestwaytodetermineifacpufanisspinningproperly?": [
+        "Visually inspect the fan when the power is on to ensure it is spinning."
+      ],
+      "atechnicianisperforminghardwaremaintenanceofpcsataconstructionsite.whattaskshouldthetechnicianperformaspartofapreventivemaintenanceplan?": [
+        "Remove dust from intake fans."
+      ],
+      "whatisaprimarybenefitofpreventivemaintenanceonapc?": [
+        "It extends the life of the components."
+      ],
+      "anemployeereportsthattheantivirussoftwarecannotobtainupdates.thesupporttechniciannoticesthatthelicenseforthesoftwarehasexpired.thetechnicianaddsanewlicensetothesoftwareandcompletestheupdateservice.whatshouldthetechniciandonext?": [
+        "Run a full virus scan on the computer."
+      ]
+    },
+    "chapter5": {
+      "acustomerisconsideringamultipurposedevicetocreateahomenetwork.whichthreedevicesareusuallyintegratedintoamultipurposenetworkdevice?(choosethree.)": [
+        "switch",
+        "router",
+        "wireless access point"
+      ],
+      "whichtwodevicesarecommonlypoweredbypoe?(choosetwo.)": [
+        "access point",
+        "IP phone"
+      ],
+      "whichtwotypesofsignalinterferencearereducedmorebystpthanbyutp?(choosetwo.)": [
+        "RFI",
+        "EMI"
+      ],
+      "whenwouldaprinterbeconsideredanetworkhost?": [
+        "when it is connected to a switch"
+      ],
+      "whichtechnologyismostoftenusedtoconnectdevicestoapan?": [
+        "Bluetooth"
+      ],
+      "anetworkspecialisthasbeenhiredtoinstallanetworkinacompanythatassemblesairplaneengines.becauseofthenatureofthebusiness,theareaishighlyaffectedbyelectromagneticinterference.whichtypeofnetworkmediashouldberecommendedsothatthedatacommunicationwillnotbeaffectedbyemi?": [
+        "fiber optic"
+      ],
+      "howmanydevicescanabluetoothdeviceconnecttosimultaneously?": [
+        "7"
+      ],
+      "whichnetworkdevicemakesforwardingdecisionsbasedonthedestinationmacaddressthatiscontainedintheframe?": [
+        "switch"
+      ],
+      "whatisacommonfunctionofaproxyserver?": [
+        "to store frequently accessed web pages on the internal network"
+      ],
+      "whatisacharacteristicofawan?": [
+        "It connects multiple networks that are geographically separated."
+      ],
+      "whatisthecorrectorderofthelayersofthetcp/ipmodelfromthetoplayertothebottom?": [
+        "application, transport, internet, network access"
+      ],
+      "whichieeestandardoperatesatwirelessfrequenciesinboththe5ghzand2.4ghzranges?": [
+        "802.11n"
+      ],
+      "whichpairsofwireschangeterminationorderbetweenthe568aand568bstandards?": [
+        "green and orange"
+      ],
+      "whichdeviceprovideswirelessconnectivitytousersasitsprimaryfunction?": [
+        "access point"
+      ],
+      "whichtypeofconnectiontotheinternetiscapableofthefastesttransferrates?": [
+        "fiber"
+      ],
+      "auserneedstoaccesstheinternetfromhome.whichdeviceisneededifauserconnectstoanispthroughthetelephonenetwork?": [
+        "DSL modem"
+      ],
+      "whichwell-knownportnumberisusedbythedhcp(client)protocol?": [
+        "68"
+      ],
+      "atechnicianwithapcisusingmultipleapplicationswhileconnectedtotheinternet.howisthepcabletokeeptrackofthedataflowbetweenmultipleapplicationsessionsandhaveeachapplicationreceivethecorrectpacketflows?": [
+        "The data flow is being tracked based on the source port number that is used by each application."
+      ],
+      "whichtypeofserverwouldbeusedtokeepahistoricalrecordofmessagesfrommonitorednetworkdevices?": [
+        "syslog"
+      ],
+      "whichnetworkdevicewouldbethemostappropriatetoprovidestatefulpacketfiltering,emailfiltering,andvpnservices?": [
+        "UTM"
+      ],
+      "whichsmarthomewirelesstechnologyhasanopenstandardthatallowsupto232devicestobeconnected?": [
+        "Z-Wave"
+      ],
+      "whichnetworkdeviceallowsadministratorstoremotelymanagemanydevicesthroughonedashboardinterface?": [
+        "cloud-based network controller"
+      ],
+      "whichinternetconnectiontypeisanalways-onservicethatusesradiosignalssentfromatowertoareceiverinahomeorbusiness?": [
+        "line of sight wireless"
+      ],
+      "whichtypeofserverwouldsupportthesmtp,pop,andimapprotocols?": [
+        "email"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof21.whatserviceapplicationistheclientrequesting?": [
+        "FTP"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof137.whatserviceapplicationistheclientrequesting?": [
+        "NetBIOS (NetBT)"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof22.whatserviceapplicationistheclientrequesting?": [
+        "SSH"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof143.whatserviceapplicationistheclientrequesting?": [
+        "IMAP"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof161.whatserviceapplicationistheclientrequesting?": [
+        "SNMP"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof23.whatserviceapplicationistheclientrequesting?": [
+        "Telnet"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof389.whatserviceapplicationistheclientrequesting?": [
+        "LDAP"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof25.whatserviceapplicationistheclientrequesting?": [
+        "SMTP"
+      ],
+      "aclientpacketisreceivedbyaserver.thepackethasadestinationportnumberof53.whatserviceapplicationistheclientrequesting?": [
+        "DNS"
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsapoeinjector.whatisthepurposeofthisdevice?": [
+        "It is a device that can be inserted in the middle of a cable run to add power."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsamanagedswitch.whatisthepurposeofthisdevice?": [
+        " It connects multiple end devices and can be configured for VLANs and port security."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsapowerlinenetworkingconnector.whatisthepurposeofthisdevice?": [
+        "It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsacablemodem.whatisthepurposeofthisdevice?": [
+        "It connects a home or business network to a company that provides internet connectivity as well as television signals."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsanunmanagedswitch.whatisthepurposeofthisdevice?": [
+        "It is a device whose sole purpose is to connect end devices and to microsegment a LAN."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsadslmodem.whatisthepurposeofthisdevice?": [
+        " It connects the network of a user to the digital infrastructure of a phone company, providing always-on service."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsanaccesspoint.whatisthepurposeofthisdevice?": [
+        "It uses radio waves to provide network access to wireless devices."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsarouter.whatisthepurposeofthisdevice?": [
+        "It connects networks and forwards traffic to remote networks by using IP addressing information."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsacloud-basednetworkcontroller.whatisthepurposeofthisdevice?": [
+        "It is a device that allows a network administrator to manage many remote networking devices from a central location."
+      ],
+      "atechnicianissearchingthroughastoragelockerandfindsafirewall.whatisthepurposeofthisdevice?": [
+        "It is placed between two or more networks and protects data and equipment from unauthorized access."
+      ]
+    },
+    "chapter6": {
+      "usersinarecentlyinstalledwirelessnetworkarecomplainingofslowdatatransferandfrequentlossofconnectivity.thetechnicianchecksthatthewirelesssecurityiscorrectlyimplemented,andthereisnoevidenceofunauthorizedusersonthenetwork.whichtwoproblemsmightthetechniciansuspect?(choosetwo.)": [
+        "There is interference from outside sources.",
+        "The wireless signal is too weak."
+      ],
+      "awirednetworkisundergoingseveralchangesthatcouldleaveitvulnerabletoconnectionbyunauthorizeddeviceswhiletheworkisinprogress.whichtwotemporarymeasureswouldenabletheauthorizeddevicestocontinuetohavenetworkaccessbutpreventunauthorizeddevicesfromconnecting?(choosetwo.)": [
+        "Disable DHCP.",
+        "Assign static IP addresses to the authorized devices."
+      ],
+      "whattwodefaultwirelessroutersettingscanaffectnetworksecurity?(choosetwo.)": [
+        "The SSID is broadcast.",
+        "A well-known administrator password is set."
+      ],
+      "anetworktechnicianischeckingacomputertoseeifthedhcpclientisworkingcorrectly.thetechnicianissuestheipconfig/allcommand.whichtwoparametersshouldthetechnicianreview?(choosetwo.)": [
+        "default gateway",
+        "subnet mask "
+      ],
+      "atechnicianistroubleshootingaproblemwheretheuserclaimsaccesstotheinternetisnotworking,buttherewasaccesstotheinternetthedaybefore.uponinvestigation,thetechniciandeterminesthattheusercannotaccessthenetworkprinterintheofficeeither.thenetworkprinterisonthesamenetworkasthecomputer.thecomputerhas169.254.100.88assignedasanipaddress.whatisthemostlikelyproblem?": [
+        "The computer cannot communicate with a DHCP server."
+      ],
+      "ausercanprinttoaprinterthatisonthesamenetwork,butthetrafficoftheusercannotreachtheinternet.whatisapossiblecauseoftheproblem?": [
+        "The PC default gateway address is missing or incorrect."
+      ],
+      "porttriggeringhasbeenconfiguredonawirelessrouter.port25hasbeendefinedasthetriggerportandport113asanopenport.whateffectdoesthishaveonnetworktraffic?": [
+        "All traffic that is sent out port 25 will open port 113 to allow inbound traffic into the internal network through port 113."
+      ],
+      "apcisnotabletoconnecttoawirednetwork.pingingtheloopbackaddressissuccessful,butthegatewaycannotbereached.onthenetworkswitchalltheinterfacelightsareon,exceptfortheinterfaceconnectedtothepc.theledonthenetworkcardisoff.whatisthemostlikelycauseofthisproblem?": [
+        "The network cable is faulty."
+      ],
+      "thecurrentipconfigurationofasmallcompanyisdonemanuallyandistime-consuming.becauseofincreasednetworkgrowth,atechnicianneedsasimplerwayforipconfigurationofworkstations.whichservicewouldsimplifytheworkstationipconfigurationtask?": [
+        "DHCP"
+      ],
+      "atechniciantroubleshootinganetworkproblemhasusedclicommandstodeterminethatacomputerhasnotbeenallocatedacorrectipaddressfromthedhcpserver.whichcommandcanthetechnicianusetosolvethisproblem?": [
+        "ipconfig/renew"
+      ],
+      "whichnetworkprotocolisusedtoautomaticallyassignanipaddresstoacomputeronanetwork?": [
+        "DHCP"
+      ],
+      "whatsecuritytechniquecouldprovidesecureaccesstoaserverlocatedinasmallofficewithouttheexpenseofimplementingadmzorpurchasingahardwarefirewall?": [
+        "implement port forwarding"
+      ],
+      "agroupofusersisunabletoconnecttothenetwork.whentestingseveralofthepcsandissuingthecommandipconfig,thetechniciannoticesthatallofthemhaveanipaddressinthe169.254.x.xrange.whatisthemostlikelycauseofthisproblem?": [
+        "The DHCP server is not operational."
+      ],
+      "whatisthecorrectcompressedformatoftheipv6address2001:0db8:eeff:000a:0000:0000:0000:0001?": [
+        "2001:db8:eeff:a::1"
+      ],
+      "whatisthepropercidrprefixnotationforasubnetmaskof255.0.0.0?": [
+        "/8"
+      ],
+      "atechnicianisconfiguringthechannelonawirelessroutertoeither1,6,or11.whatisthepurposeofadjustingthechannel?": [
+        "to avoid interference from nearby wireless devices"
+      ],
+      "whichnetworkserverismalfunctioningifausercanpingtheipaddressofawebserverbutcannotpingthewebserverhostname?": [
+        " the DNS server"
+      ],
+      "multipleusersreportthattheworkstationsareassigneda169.254.x.xipaddress.theusersareabletocommunicateonlybetweeneachother.whatisapossiblesolution?": [
+        "Restart the DHCP server."
+      ],
+      "anadministratordeployswirelessaccesspointsacrosstheofficetoprovidewirelessnetworkconnectivitytousers.eachworkstationreceivesanipaddressviadhcp.afterafileserverwithastaticipisconnectedtothewirednetwork,theadministratorreceivesanipaddressconflictmessage.whatisapossiblesolution?": [
+        "Change the static IP configured on the file server."
+      ],
+      "aworkstationhasbeenmovedfromthefirstfloortothefifthfloorwithinanorganization.theuserisnowreportingthattheworkstationcannotconnecttothenetwork.atechniciansuspectsthattheworkstationcouldnotobtainanipaddressfromadhcpserver.whatisapossiblecauseoftheproblem?": [
+        "The workstation has been configured with a static IP address."
+      ],
+      "adevicehasbeenassignedtheipv6addressof2001:0db8:cafe:4500:1000:00d8:0058:00ab/64.whichisthehostidentifierofthedevice?": [
+        "1000:00d8:0058:00ab"
+      ],
+      "whichipv6addressrepresentsthemostcompressedformoftheipv6address2001:0db8:cafe:0000:0835:0000:0000:0aa0/80?": [
+        "2001:db8:cafe:0:835::aa0/80"
+      ],
+      "afterhavingtalkedtothecustomer,anetworktechniciansuspectsthataninvalidipaddressisthemostlikelycauseofanetworkissue.whichstepofthetroubleshootingprocessdoesthisrepresent?": [
+        "Establish a theory of probable cause."
+      ],
+      "whichfilteringmethodusesthephysicaladdresstospecifyexactlywhichdeviceisallowedorblockedfromsendingdataonanetwork?": [
+        "MAC address filtering"
+      ],
+      "howmanybitsareusedtorepresentanipv6address?": [
+        " 128"
+      ],
+      "howmanybitsareusedtorepresentthehostaddressofacomputerwiththeipaddressof192.168.1.25andasubnetmaskof255.255.255.0?": [
+        "8"
+      ],
+      "howmanybitsareusedtorepresentthenetworkaddressofahostwithanipaddressof192.168.150.16andasubnetmaskof255.255.0.0?": [
+        "16"
+      ],
+      "howmanybitsareusedtorepresenttheouipartofthemacaddressofaniccard?": [
+        " 24"
+      ],
+      "howmanybitsareusedtorepresentamacaddress?": [
+        "48"
+      ]
+    },
+    "chapter7": {
+      "tocleanlaptops,whichtwoproductsarerecommended?(choosetwo.)": [
+        " cotton swabs ",
+        "mild cleaning solution"
+      ],
+      "whatarethreecommoninputdevicesfoundonlaptops?(choosethree.)": [
+        "touchpad ",
+        "fingerprint reader ",
+        "web camera"
+      ],
+      "whichtwostatementsaretrueofalaptopcpuwhencomparedtoadesktopcpu?(choosetwo.)": [
+        "Laptop CPUs use smaller cooling devices.",
+        "Laptop CPUs are designed to produce less heat."
+      ],
+      "atechnicianhasbeenaskedtodecidewhichlaptopcomponentsshouldbecleanedonamonthlybasisaspartofamaintenanceroutine.whataretwoexamplesofcomponentsthatshouldbeincluded?(choosetwo.)": [
+        "exterior case ",
+        "keyboard"
+      ],
+      "whataretwomethodstypicallyusedonamobiledevicetoprovideinternetconnectivity?(choosetwo.)": [
+        "cellular",
+        "Wi-Fi"
+      ],
+      "acustomerbringsalaptopintoacomputerrepairshop.thetechniciancantellthatthelaptopispoweredonbythepowerlight,butnothingdisplaysonthescreen.whataretwopossibleissuesthatcouldcausethissymptom?(choosetwo.)": [
+        "The laptop has gone into sleep mode. ",
+        "The screen cutoff switch needs cleaning or is damaged."
+      ],
+      "whichtypeoframmodulesaredesignedforthespacelimitationsoflaptops?": [
+        "SODIMMs"
+      ],
+      "whatisadesignconsiderationformobilecpususedinlaptopscomparedwithdesktopcpus?": [
+        "They require smaller cooling mechanisms than desktops do."
+      ],
+      "whichprotocolcanbeusedtotransfermessagesfromanemailservertoanemailclient?": [
+        "POP3 "
+      ],
+      "whatisacharacteristicoflaptopmotherboards?": [
+        "Laptop motherboards are proprietary."
+      ],
+      "whatdevicesettingisusedtosharethecellularwanconnectionofaphoneinordertoallowotherdevicestoconnecttotheinternet?": [
+        "mobile hotspot"
+      ],
+      "whichlaptopcomponentiscommonlyfoundinthelaptoplid?": [
+        "Wi-Fi antenna"
+      ],
+      "whatisthepurposeofadigitizerinamobiledevice?": [
+        "to convert user touch actions to digital input signals"
+      ],
+      "whattypeofbacklightisusedinanleddisplay?": [
+        "LED"
+      ],
+      "whereisanintegratedmicrophonenormallylocatedonalaptop?": [
+        "in the top of the display"
+      ],
+      "whichacpistateturnsthecpuandramoffandcopiesthecontentsoframtoatemporaryfileontheharddisk?": [
+        "S4"
+      ],
+      "whatcouldbeusedinconjunctionwithalaptopinordertoreadflashmedia?": [
+        "card reader"
+      ],
+      "whichstepwouldbeimportantintheremovaloflaptopmemory?": [
+        "Press outward on the clips that hold the memory module."
+      ],
+      "whichlaptopcomponentwouldbeconsideredanfru?": [
+        "display"
+      ],
+      "whichcharacteristicshouldbeconsideredwhenareplacementmobiledevicebatteryisbeingselected?": [
+        "It has the same power ratings."
+      ],
+      "whichspecializedmobiledeviceiscommonlyusedwithvrandar?": [
+        "headset"
+      ],
+      "whichcellulartechnologysupportsspeedsupto20gbps?": [
+        "5G"
+      ],
+      "atechnicianisconfiguringadeviceandthedeviceshowsthatitispairing.whichmobiletechnologyisbeingused?": [
+        "Bluetooth"
+      ],
+      "whichappisusedtosynchronizedatatoanios-basedmobiledevice?": [
+        "iTunes"
+      ],
+      "atechnicianhasbeencalledonsitetohelpauserwhohasalaptopproblem.atwhichpointshouldthetechnicianlookonlineforadditionalpossiblesolutionstoalaptopproblem?": [
+        "after testing a theory to determine the cause"
+      ],
+      "anemployeewantstoincludepicturesanddocumentswhensendingemailmessagesonamobiledevice.whattechnologyallowsthistasktobeaccomplished?": [
+        "MIME"
+      ],
+      "alawyerwantstogivealaptoptheabilitytoconnecttotheinternetthroughthecellularnetwork.whattechnologyallowsthistasktobeaccomplished?": [
+        "mobile hotspot"
+      ],
+      "alawyerwantstoenableasmartphonetobeusedasahands-freedevice.whattechnologyallowsthistasktobeaccomplished?": [
+        "Bluetooth"
+      ],
+      "adoctorwantstouseacellphoneforentertainmentwithoutconnectingtoanynetworks.whattechnologyallowsthistasktobeaccomplished?": [
+        "airplane mode"
+      ],
+      "adoctorwantstomakeabackupcopyofallofthedataonamobiledevice.whattechnologyallowsthistasktobeaccomplished?": [
+        "cloud service"
+      ],
+      "astudentwantstomakeabackupcopyofallofthedataonamobiledevice.whattechnologyallowsthistasktobeaccomplished?": [
+        "cloud service"
+      ],
+      "astudentwantstomakemobilephonecallsoverawirelessdatanetworkbasedon802.11technology.whattechnologyallowsthistasktobeaccomplished?": [
+        "Wi-Fi calling"
+      ],
+      "asalespersonwantstomakemobilephonecallsoverawirelessdatanetworkbasedon802.11technology.whattechnologyallowsthistasktobeaccomplished?": [
+        "Wi-Fi calling"
+      ],
+      "asalespersonwantstoembedthelocationonadigitalphotographtorecordwhereitwastaken.whattechnologyallowsthistasktobeaccomplished?": [
+        "geotagging"
+      ],
+      "amanagerwantstohavealaptopwithtouchscreencapabilities.whattechnologyallowsthistasktobeaccomplished?": [
+        "digitizer"
+      ],
+      "astudentwantstomakeabackupcopyofallofthedataonapersonalmobiledevice.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "cloud service"
+      ],
+      "anemployeewantstofindanalternateroutehomebecausetheusualrouteisblockedbyanaccident.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "GPS"
+      ],
+      "asalespersonwantstoembedgeographicallocationmetadataontovariousmediasuchasphotographsandvideos.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "geotagging"
+      ],
+      "alawyerwantstogivealaptoptheabilitytoaccesstheinternetthroughacellularnetwork.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "mobile hotspot"
+      ],
+      "amanagerwantstopurchaseaspecializedmobiledeviceforanewvrgame.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "headset"
+      ],
+      "anexecutivewantstoenableacellphonetobeusedasahands-freedevice.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        " Bluetooth"
+      ],
+      "ananalystwantstocommunicatewiththecompanywhileexercisingandbeabletotrackpersonalphysicalactivity.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "smartwatch"
+      ],
+      "anemployeewantstopayforaproductjustbytappingasmartphoneonasensor.whattechnology,product,orsettingallowsthistasktobeaccomplished?": [
+        "NFC"
+      ]
+    },
+    "chapter8": {
+      "matchthecommonprinterconfigurationoptionstothecorrectdescriptions.(notalloptionsareused.)": [],
+      "whataretwocablesthatareusedtoconnectacomputertoaprinter?(choosetwo.)": [
+        "serial ",
+        "FireWire"
+      ],
+      "whataretwofunctionsofaprintserver?(choosetwo.)": [
+        "provide print resources to all connected client computers ",
+        "store print jobs in a queue until the printer is ready"
+      ],
+      "whataretwomethodstoconnecttoaprinterwirelessly?(choosetwo.)": [
+        "IEEE 802.11 standards ",
+        "Bluetooth"
+      ],
+      "whataretwoprobablecausesforprinterpaperjams?(choosetwo.)": [
+        "high humidity ",
+        "the wrong type of paper"
+      ],
+      "whichfactoraffectsthespeedofaninkjetprinter?": [
+        "the desired quality of the image"
+      ],
+      "whatisacharacteristicofthermalinkjetnozzles?": [
+        "The heat creates a bubble of steam in the chamber."
+      ],
+      "inlaserprinting,whatisthenameoftheprocessofapplyingtonertothelatentimageonthedrum?": [
+        "developing"
+      ],
+      "whatisthepurposeoftheadditionaldriversbuttoninthesharingtaboftheprinterproperties?": [
+        " to add additional drivers for other operating systems"
+      ],
+      "awindows7computerhasseveralprintersconfiguredinthecontrolpaneldevicesandprinterswindow.whichprinterwillthecomputerchoosetobethefirstoptionforprinting?": [
+        "the printer that is set as the default printer"
+      ],
+      "whichtypeofprintserverprovidesthemostfunctionsandcapabilities?": [
+        "a dedicated PC print server"
+      ],
+      "auserdiscoversthataninkjetcolorprinterisprintingdifferentcolorsfromthosethatareshownonthescreen.whatcanbedonetosolvethisproblem?": [
+        "Calibrate the printer."
+      ],
+      "whatisacharacteristicofglobalandper-documentoptionsinprintsettings?": [
+        "Per-document options override global options."
+      ],
+      "afterapplyingasolutiontoaprinterproblem,atechnicianrestartstheprinterandprintsatestpage.whichstepofthetroubleshootingprocessisthetechnicianapplying?": [
+        "verifying the solution and system functionality"
+      ],
+      "atechnicianrecordedthatanewfuserrollerunitwasinstalledinalaserprintertosolveaprintingproblem.whichstepinthetroubleshootingprocessdidthetechnicianjustperform?": [
+        "documenting findings, actions, and outcomes"
+      ],
+      "whichactionsupportsaneffectiveprinterpreventivemaintenanceprogram?": [
+        "Reset the printer page counters if available."
+      ],
+      "howcanthelifeofathermalprinterbeextended?": [
+        " Clean the heating element regularly with isopropyl alcohol."
+      ],
+      "inwindows8,whatmustbeconfiguredtoenableoneusertoshareausb-connectedprinterwithanotheruseronthesamenetwork?": [
+        "File and printer sharing",
+        "In both Windows 7 and 8, use the ​Network and Sharing Center control panel > Change advanced sharing settings to select the Turn on file and printer sharing option."
+      ],
+      "theusersonalanarereportingthatcomputersrespondslowlywheneverhighresolutionphotographsarebeingprintedonthecolorlaserprinter.whatwouldbethecauseofthisproblem?": [
+        "The printer does not have enough memory to buffer an entire photograph."
+      ],
+      "atechnicianisinstallingaprinterthatwillbedirectlyconnectedtoacomputer.whydoesthetechniciannotconnecttheprinterinitiallyduringtheinstallationprocess?": [
+        "The printer driver might need to be installed first before the printer is connected."
+      ],
+      "whichstatementdescribesaprinterdriver?": [
+        "It is software that converts a document into the format that a printer can understand."
+      ],
+      "whattypeofconnectionwouldbeusedtoconnectaprinterdirectlytothenetwork?": [
+        "Ethernet"
+      ],
+      "whatmechanismisusedinalaserprintertopermanentlyfusethetonertothepaper?": [
+        "heat"
+      ],
+      "whatcorrectiveactionwouldatechniciantakeinresponsetoaprintspoolererror?": [
+        "restart the print spooler"
+      ],
+      "whatcorrectiveactionshouldbetakenifaprinterisprintingfadedimages?": [
+        "replace the toner cartridge"
+      ],
+      "whatwouldcauseaninkjetprintertofailtoprintanypages?": [
+        "The ink cartridge is empty."
+      ],
+      "ausertellsatechnicianthattheprinterdoesnotrespondtoattemptstoprintadocument.thetechnicianattemptstoprintadocumentandtheprinterdoesnotoutputanypages.thetechniciannoticesthattheprinterlcddisplayisblankandunlit.whatismostlikelytheproblem?": [
+        "The printer is not turned on."
+      ],
+      "atechnicianiscomplainingaboutthefollowingprinterissue:thetonerisnotfusingtothepaper.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The toner cartridge is defective. ",
+        "The paper might be incompatible with the printer."
+      ],
+      "alibrarianiscomplainingaboutthefollowingprinterissue:myimpactprinterproducesfadedorlightcharacters.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The ribbon may be worn out.",
+        "The ribbon may be damaged."
+      ],
+      "ateacheriscomplainingaboutthefollowingprinterissue:thepaperiscreasedafterprinting.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The paper-feed tray might not be firmly adjusted against the edges of the printer. ",
+        "The paper might be loaded incorrectly."
+      ],
+      "areceptionistiscomplainingaboutthefollowingprinterissue:theprintqueueseemstobefunctioningproperly,buttheprinterdoesnotprint.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "There is a bad cable connection. ",
+        "The printer has an error such as out of paper, out of toner, or paper jam."
+      ],
+      "aphotographeriscomplainingaboutthefollowingprinterissue:theprinterissuesa“documentfailedtoprint”message.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "A cable is loose or disconnected. ",
+        "The printer is no longer shared."
+      ],
+      "areporteriscomplainingaboutthefollowingprinterissue:thepaperjamswhentheprinterisprinting.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The printer could be dirty. ",
+        "The humidity could be high and that causes the paper to stick together."
+      ],
+      "amanageriscomplainingaboutthefollowingprinterissue:theinkprinterisprintingblankpages.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The print head is clogged. ",
+        "The printer is out of ink or toner."
+      ],
+      "atechnicianiscomplainingaboutthefollowingprinterissue:theprintappearsfadedonthepaper.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The toner cartridge is low. ",
+        "The paper might be incompatible with the printer."
+      ],
+      "alibrarianiscomplainingaboutthefollowingprinterissue:theprintercontrolpaneldisplaysnoimage.whataretwopossiblecausesofthisissue?(choosetwo.)": [
+        "The contrast of the screen may be set too low. ",
+        "The printer is not turned on."
+      ],
+      "alldocumentsprintedbythelaserprinterinthebranchofficehaveghostorshadowimagesappearingonthepaper.whatshouldthetechniciandotoresolvetheissue?": [
+        " Replace the drum."
+      ],
+      "anofficeassistantinalawfirmistryingtoprintmanylargelegaldocumentsbutisgetting“memoryoverload”errormessagesfromtheprinter.whatshouldthetechniciandotoresolvetheissue?": [
+        "Add more memory to the printer."
+      ],
+      "areporteristryingtoprintseveralhighresolutionphotographsbutthecolorlaserprinterisgoingextremelyslowly.whatshouldthetechniciandotoresolvetheissue?": [
+        "Add more RAM to the printer."
+      ],
+      "anewprinterhasjustbeeninstalleddeepinamine.whentestpagesareprinted,thepaperconstantlyjams.whatshouldthetechniciandotoresolvetheissue?": [
+        "Move the printer to a less-humid location."
+      ],
+      "ausercomplainsthatrecentlyeveryprinteddocumenthasverticallinesandstreaksonthepaper.whatshouldthetechniciandotoresolvetheissue?": [
+        "Distribute the toner more evenly within the cartridge."
+      ],
+      "aschoolisinstallinganewsharedprinterbuttheprinterisnotshowinguponthelistofavailableprinters.whatshouldthetechniciandotoresolvetheissue?": [
+        "Manually add the printer IP address."
+      ],
+      "employeesarecomplainingthattheysendprintjobstoanewlyinstalledprinterbuttheprintjobsneverprint.whatshouldthetechniciandotoresolvetheissue?": [
+        "The printer is connected to the wrong port. Modify the port."
+      ]
+    },
+    "chapter9": {
+      "matchthedefinitiontothetypeofcloud.": [],
+      "asoftwareengineerisinvolvedinthedevelopmentofanapplication.forusabilitytests,theengineerneedstomakesurethattheapplicationwillworkinbothwindows7andwindows8environments.thefeaturesandfunctionsmustbeverifiedintheactualosenvironment.theengineerisusingawindows7workstation.whattwotechnologiescanhelptheengineerachievetheusabilitytests?(choosetwo.)": [
+        "dual boot",
+        "client-side virtualization"
+      ],
+      "whichtwobusinessandtechnicalchallengesdoesimplementingvirtualizationwithinadatacenterhelpbusinessestoovercome?(choosetwo.)": [
+        "physical footprint ",
+        "power and air conditioning"
+      ],
+      "whataretwoadvantagesofusingpcvirtualization?(choosetwo.)": [
+        "It allows multiple operating systems to run on a single PC simultaneously.",
+        "It can provide cost savings."
+      ],
+      "asmallcompanyisconsideringmovingmanyofitsdatacenterfunctionstothecloud.whatarethreeadvantagesofthisplan?(choosethree.)": [
+        "The company only needs to pay for the amount of processing and storage capacity that it uses.",
+        "The company can increase processing and storage capacity as needed and then decrease capacity when it is no longer needed.",
+        "The company does not need to be concerned about how to handle increasing data storage and processing demands with in-house data center equipment."
+      ],
+      "acollegeusesvirtualizationtechnologytodeployinformationsecuritycourses.someofthelabexercisesinvolvestudyingthecharacteristicsofcomputervirusesandworms.whatisanadvantageofconductingthelabexercisesinsidethevirtualizedenvironmentasopposedtousingactualpcs?": [
+        "The lab exercises are performed faster inside of the virtualized environment.",
+        "Virus and worm attacks are more easily controlled in a virtualized environment, thus helping to protect the college network and its devices from attack.​"
+      ],
+      "whattechnologyallowsuserstoaccessdataanywhereandatanytime?": [
+        "Cloud computing"
+      ],
+      "trueorfalse.": [
+        "false"
+      ],
+      "howdoesvirtualizationhelpwithdisasterrecoverywithinadatacenter?": [
+        "support of live migration"
+      ],
+      "whichtypeofhypervisorwouldmostlikelybeusedinadatacenter?": [
+        "Type 1"
+      ],
+      "whatisthemainfunctionofahypervisor?": [
+        "It is used to create and manage multiple VM instances on a host machine."
+      ],
+      "whichstatementdescribesacharacteristicofcloudcomputing?": [
+        "Applications can be accessed over the Internet by individual users or businesses using any device, anywhere in the world."
+      ],
+      "atechnicianneedstouseanapplicationthatisnotsupportedbywindowsoperatingsystemsonthepc.howcanthetechnicianmakethisapplicationrunonthepc?": [
+        "Create a virtual machine with an operating system that supports the application."
+      ],
+      "whichcloudcomputingservicewouldbebestforanorganizationthatdoesnothavethetechnicalknowledgetohostandmaintainapplicationsattheirlocalsite?": [
+        "SaaS"
+      ],
+      "whatisadifferencebetweenthefunctionsofcloudcomputingandvirtualization?": [
+        "Cloud computing separates the application from the hardware whereas virtualization separates the OS from the underlying hardware."
+      ],
+      "whichisacharacteristicofatype1hypervisor?​": [
+        "installed directly on a server​"
+      ],
+      "whichisacharacteristicofatype2hypervisor?​": [
+        "does not require management console software"
+      ],
+      "whichcloudmodelprovidesservicesforaspecificorganizationorentity?": [
+        "a private cloud"
+      ],
+      "whichtypeofhypervisorisimplementedwhenauserwithalaptoprunningthemacosinstallsawindowsvirtualosinstance?": [
+        "type 2"
+      ],
+      "atrainingcompanyoffersmanyapplicationcoursesbasedonwindows.thecompanyislookingforasolutiontoprovideahands-onlearningandpracticeenvironmenttoremotelearners.thegoalistoprovideauniformlearningenvironmenttoallusers.whichcloud-basedsolutionwouldhelpthecompanytoachievethegoal?": [
+        "virtual desktop infrastructure"
+      ],
+      "asmallcollegewishestodeployaleaningmanagementsystem(lms)andislookingforahostedsolution.whichtypeofcloud-basedsolutionwouldhelpthecollegetoachievethegoal?": [
+        "virtual application stream"
+      ],
+      "afreelancereporterwishestouseaservicethatallowsfilestobeaccessedatanytimefromanydevice.wheneverthereporterstartsthelaptopandconnectstotheinternet,thefilesstoredonthelaptopmustbesynchronizedwiththeserviceautomatically.whichsolutionwillmeettherequirements?": [
+        "Dropbox"
+      ],
+      "asoftwarecompanyhasgroupsofdeveloperslocatedindifferentcitiesaroundtheworld.thecompanyisusingacloud-baseddevelopmentenvironmentsothatalldeveloperscanaccessthesamesoftwaredevelopmenttools.whichcloudserviceisusedbythecompany?": [
+        "PaaS"
+      ],
+      "aninternationalcivilengineeringassociationhasmembersfromallovertheworld.theresearchdivisionoftheassociationplanstohaveacloud-basedservicetoshareresearchideasandtopromotecollaborationamongmembersinmultipledivisionsoftheassociation.whichcloudmodelissuitableforthem?": [
+        "community"
+      ],
+      "acomputeruserlogsaproblemstatingthatthecomputerisemittingaloudclickingnoise.whichdeviceshouldthetechniciancheckfirst?": [
+        " hard drive"
+      ],
+      "whileatechnicianisinstallingaprinter,thetechnicianhearsaloudclickingnoise.whichdeviceshouldthetechniciancheckfirst?": [
+        "hard drive"
+      ],
+      "whileworkinginacomputertrainingroom,thetechniciannoticesthatonecomputeremitsaloudclickingnoise.whichdeviceshouldthetechniciancheckfirst?": [
+        " hard drive"
+      ],
+      "everytimeauserturnsonthecomputerinthemorning,theuserhearsaloudclickingnoise.whichdeviceshouldthetechniciancheckfirst?": [
+        "hard drive"
+      ],
+      "whenaco-workerstepsintoanotheroffice,theco-workernoticesthatthecomputerismakingaloudclickingnoiseandasksaboutit.thetechnicianiscontactedtoinvestigate.whichdeviceshouldthetechniciancheckfirst?": [
+        " hard drive"
+      ],
+      "whenauserturnsonaworkstation,thescreendisplaysan“invalidbootdisk”error.theusercallsthehelpdesk.whichdeviceshouldthetechniciancheckfirst?": [
+        " hard drive"
+      ]
+    },
+    "chapter10": {
+      "whataretwotypesofcomputeruserinterface?(choosetwo.)": [
+        "CLI",
+        "GUI"
+      ],
+      "whataretwodefaultaccounttypesprovidedbywindows10?(choosetwo.)": [
+        "Administrator ",
+        "Standard User"
+      ],
+      "whichtermbestdescribestheprocessofbreakingaprogramintosmallerpartsthatcanbeloadedasneededbytheoperatingsystem?": [
+        "multithreading​"
+      ],
+      "whatisthedefaultfilesystemusedduringafreshinstallationofwindows7?": [
+        "NTFS"
+      ],
+      "auserinstallsanewsoundcarddriverinacomputerthatisworkingproperly.aftertheinstallationofthedriversforthenewsoundcard,thecomputerfailstoboot.whichquickfixcantheuserimplementtoreturntothepreviousworkingstate?": [
+        "Boot to Last Known Good Configuration."
+      ],
+      "whatisapossiblesituationwhenitmightbenecessarytobootwindows7fromausbdevice,acd,oradvd?": [
+        "to repair the system"
+      ],
+      "whatfeatureofanoperatingsystemallowsittosupporttwoormorecpus?": [
+        "multiprocessing"
+      ],
+      "whattermisusedtodescribealogicaldrivethatcanbeformattedtostoredata?": [
+        "partition"
+      ],
+      "whichkey,whenpressedduringthebootprocess,willallowtheusertochoosetostartwindowsinsafemode?": [
+        "F8"
+      ],
+      "whichfilesystemisusedtoaccessfilesoveranetwork?": [
+        "NFS"
+      ],
+      "whichstatementisafeatureofthewindows8operatingsystem?": [
+        "It supports a touch screen interface."
+      ],
+      "whichcomponentofacpuarchitectureallowsthecpuimmediateaccesstodata?": [
+        "registers"
+      ],
+      "whenwouldthepxeoptionbeusedwhenrepairingapc?": [
+        "The computer needs a replacement operating system."
+      ],
+      "whichstatementaccuratelydescribestheguidpartitiontable?": [
+        "It is commonly used in computers with UEFI firmware."
+      ],
+      "whichstatementdescribesdynamicdisksinapcthatisrunningwindows10pro?": [
+        "They have the ability to create volumes that span across more than one disk."
+      ],
+      "atechnicianwishestodeploywindows10proupgradetoagroupofemployeepcsonthenetworkandensurethattheuserstatemigratessuccessfully.whichtoolwouldthetechnicianusetodothis?": [
+        "User State Migration"
+      ],
+      "whichoperatingsystemdoesnotsupportwindowseasytransfertotransferinformationfromonecomputertoanother?": [
+        "Windows 10"
+      ],
+      "whichcommandlineutilitywasdevelopedbymicrosofttoallowuserstotransferfilesandsettingstoaneweditionofwindowsosduringanupgradetowindows10?": [
+        "User State Migration Tool"
+      ],
+      "whichoperationinwindows10islimitedtouserswithadministratorprivilegesonly?": [
+        "Install software programs."
+      ],
+      "whichprogramfileisloadedbythebootmanagerinawindowsbootprocess?": [
+        "winload.exe"
+      ],
+      "attheendofthebootprocessofwindows10,theloginprogramfilewinlogon.exeloads.whichprogramloadswinlogon.exe?": [
+        "ntoskrnl.exe"
+      ],
+      "whichtabwouldbeusedtosetthepriorityforaprocessinwindows10taskmanager?": [
+        "Details"
+      ],
+      "whichstatementdescribesaprimarypartition?": [
+        "It is a physical section of a hard disk. It can contain an operating system to boot the system and cannot be subdivided."
+      ],
+      "whichstatementdescribesformatting?": [
+        "It is a process to create a file system in a partition or volume for file storage."
+      ],
+      "whichstatementdescribestheactivepartition?": [
+        "It is used to boot an operating system by default."
+      ],
+      "whichstatementdescribesarecoverypartition?": [
+        "It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration."
+      ],
+      "whichstatementdescribesanextendedpartition?": [
+        "It is often used to organize data storage by subdividing it into as many as 23 logical sections."
+      ],
+      "whichstatementdescribesthemasterbootrecord(mbr)?": [
+        "It takes the first 512 bytes on the disk and contains the boot loader, an executable program that allows a user to choose from multiple operating systems."
+      ],
+      "whichstatementdescribesalogicaldrive?": [
+        "It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes."
+      ],
+      "atechnicianhasjustpurchasedanewwindows10pcandwantstotransferselectedfiles,folders,profiles,andapplicationsfromtheoldwindowspc.whattoolorutilitywouldbethebestchoicefortheuser?": [
+        "PCmover Express"
+      ],
+      "amanagerwantstoinstallwindows10directlyontoacomputerandneedshelpwiththesetupprocess.whattoolorutilitywouldbethebestchoicefortheuser?": [
+        "Upgrade Assistant"
+      ],
+      "atechnicianneedstocapturethecompanyuseraccounts,files,operatingsystemsettings,andapplicationsettingsformigrationintothenewwindows10installation.whattoolorutilitywouldbethebestchoicefortheuser?": [
+        "User State Migration Tool"
+      ],
+      "asupporttechnicianwantstoupgradeasystemtowindows10butisunsurewhetherthehardwareandsoftwareontheexistingsystemarecompatible.whattoolorutilitywouldbethebestchoicefortheuser?": [
+        "Get Windows 10 app"
+      ],
+      "ananalystisrunningwindows7onthepcandisplanningtomigratetowindows8.1.theanalystwantshelpmigratingthepersonalfilesandsettingsintothenewerversion.whattoolorutilitywouldbethebestchoicefortheuser?": [
+        "Windows Easy Transfer"
+      ],
+      "trueorfalse?smartphonesrequireanoperatingsystembeforetheycanbeoperated.": [
+        "True"
+      ],
+      "trueorfalse?modernoperatingsystemsbootthecomputer,managethefilesystem,andsupportonlyoneuser,task,orcpu.": [
+        "False"
+      ],
+      "trueorfalse?whenahardwaredeviceisinstalled,theoperatingsystemneedstouseadevicedrivertoaccessandusethathardware.": [
+        "True"
+      ],
+      "trueorfalse?whenauserisworkingonasystemthatusesanetworkfilesystem,thereisnodifferencebetweenaccessingafilestoredlocallyoronanothercomputeronthenetwork.": [
+        "True"
+      ],
+      "trueorfalse?windows1064-bitversioncanbeinstalledonaslittleas1gbofharddrivespace.": [
+        "False"
+      ],
+      "trueorfalse?directxisacollectionofapisrelatedtomultimediatasksformicrosoftwindows.": [
+        "True"
+      ],
+      "trueorfalse?theregistryisadatabasethatonlycontainsinformationaboutthedevicedriversonacomputer.": [
+        "False"
+      ],
+      "trueorfalse?multitaskingdescribesacomputeroperatingsystemthatiscapableofrunningmultipleapplicationsatthesametime.": [
+        "True"
+      ],
+      "trueorfalse?multithreadingdescribesanoperatingsystemthatcansupporttwoormorecpus.": [
+        " False"
+      ],
+      "trueorfalse?a32-bitoperatingsystemcanaddressuptoamaximumof4gbofram.": [
+        "True"
+      ]
+    },
+    "chapter11": {
+      "matchthefoldersina32-bitwindows10pctotheirdescription.(notalloptionsareused.)": [],
+      "matchthecategoriesinthewindows10controlpaneltothefunction.": [],
+      "matchtheinternetoptionstothedescriptionsusedtoconfiguremicrosoftinternetexplorer.(notalloptionsareused.)": [],
+      "matchthewindows10registrykeywithitsdescription.(notalloptionsareused.)": [],
+      "matchthemessagetypesinthewindows10eventviewerwiththeirdescription.(notalloptionsareused.)": [],
+      "whichthreelevelsofraidaresupportedbywindows10pro?(choosethree.)": [
+        "0",
+        "1",
+        "5",
+        "5"
+      ],
+      "atechnicianistroubleshootingapc.thedisplayshowsan“invalidbootdisk”errorafterthepost.whatisaprobablecause?": [
+        "The MBR is corrupted."
+      ],
+      "atechniciannoticesthataprogramthatislistedintheregistryofawindowscomputerisnotfoundonthatcomputer.whatisapossiblesolutiontotheproblem?": [
+        "Reinstall the application. Then, run the uninstall program."
+      ],
+      "whichquestionisanopenendedquestionthatcouldbeusedwhenhelpingacustomertroubleshootawindowsproblem?": [
+        "What programs have you installed recently?"
+      ],
+      "atechnicianhasbeenaskedtoreinstalltheosonacomputerthathasacorruptedoperatingsystem.thetechnicianinsertstheinstallationmediaintheopticaldrive.whatwouldbethemostlikelyactionthetechnicianshouldperformnext?": [
+        "Change the boot sequence in the BIOS."
+      ],
+      "atechnicianhassuccessfullyremovedmalwarefromapcandfindsthatwhenthesystemisrebootederrormessagesaredisplayedaboutmissingandcorruptsystemfiles.whatutilitycanthetechnicianusetoreplaceorfixanycorruptedsystemfiles?": [
+        "SFC"
+      ],
+      "atechnicianistroubleshootingawindows7laptopthattakessignificantlylongerthanexpectedwhenperformingafilesearch.whatisthepossiblecause?": [
+        "The index service is not running."
+      ],
+      "awindows8computerlocksupwithastoperrorduringstartupandthenautomaticallyreboots.theautomaticrestartsettingismakingitdifficulttoseeanyerrormessages.whatcanbedonesothattheerrormessagescanbeviewed?": [
+        "Access the Advanced Startup options menu before the OS loads to disable the auto restart function."
+      ],
+      "auserreportsthatapcislosingfiles,notopeningsomefiles,andisperformingslowly.thetechniciansuspectsproblemswiththeharddrive.whatshouldbedonetoprotectthedatathatisonthepcandtodeterminethesourceoftheproblem,withoutriskingtotaldrivefailure?": [
+        "Back up all important files, then run chkdsk."
+      ],
+      "acompanyhasrecentlydeployedactivedirectoryandnowaworkstationcannotconnecttoanetworkresource.atechniciantakescorrectiveactionbymodifyinggrouppolicysettings.whichcommandshouldthetechnicianusetomaketheworkstationsynchronizewiththenewsettings?": [
+        "gpupdate",
+        "The functions of the listed commands are as follows:\n"
+      ],
+      "auserisreportingthatafilehasbeensharedspecificallywithanotheruseronthenetwork,buttheotheruseropensthefileandisunabletosaveitonceedited.whatistheprobablecause?": [
+        "The user shared the document with Read permissions."
+      ],
+      "ausercallsthehelpdeskandreportsthattheworkstation,whenpoweringup,displayserrormessagesaboutaninvalidsystemdiskorinvalidbootdisk.whenatechniciancomestotheoffice,theusermentionsthattheworkstationwasworkingwellthedaybefore.thetechniciancheckstheworkstationandmakessurethatthecableisfirmlyconnectedbetweentheharddriveandthemotherboard.whatisanotherlikelycauseoftheproblem?": [
+        "The MBR/GPT is corrupted."
+      ],
+      "atechnicianisattemptingtodiagnoseandrectifyacommonbootproblemonawindows10installation.whichwindows10advancedrecoveryoptionshouldthetechnicianuse?": [
+        "Startup Repair"
+      ],
+      "auserofawindows10pcwantstoautomaticallysynctheuserprofileacrossvariouswindows10devicesthattheuserowns.howcantheuseraccomplishthis?": [
+        "Have the user sign into all devices with the Microsoft account of the user."
+      ],
+      "atechnicianistroubleshootingawindows10pcwithafrozeninternetexplorerwindow.whichcommandcanthetechnicianrun,asanadministratoratacommandprompt,toterminatetheinternetexplorerprocessthathashung?": [
+        "taskkill /f /im iexplorer.exe",
+        "The taskkill command can be used to end processes and services. The switch /im refers to the ImageName to end a task by PID or image name respectively. The switch /f terminates the process without any user notification. This is useful because it will terminate the hung process even if it is displaying a dialogue box."
+      ],
+      "atechnicianwishestocreateadynamicvolumeonawindows10pcthathastwophysicalharddrives.thetechnicianwantstoachievemaximumwriteperformancewithdatafaulttolerance.whattypeofdynamicvolumeshouldbecreatedtoachievethis?": [
+        "RAID 1 volume"
+      ],
+      "auserwishestoviewanisodiskimagefileonawindows10propc.howcanthisbedone?": [
+        "Use File Explorer to locate the ISO file and mount the file using the Disk Image tools.",
+        "An ISO image can be mounted in Windows 10. Use File Explorer, to locate the ISO file, then select the Manage menu under Disk Image tools, and then select Mount."
+      ],
+      "whichfilesharingmechanismisincludedwithmicrosoftwindows10toprovidesimplefilesharingviawi-fiandbluetooth?": [
+        "Nearby Sharing"
+      ],
+      "whichfeatureisincludedwithbothmacosandappleiostoestablishawi-fidirectconnectionbetweendevicestosimplifyfiletransfer?": [
+        "AirDrop"
+      ],
+      "acomputertechnicianisattemptingtomodifysettingsinthenetworkadapter>properties>advancedtab>speedandduplex.whatisapossibleeffect(orimpact)ifthisoptionisconfiguredincorrectly?": [
+        "The network connection may experience issues. ",
+        "Network card properties are configured in the Advanced tab of the adapter properties window. The Advanced tab provides configuration of features such as Speed & Duplex, QoS, Wake-on LAN, and more."
+      ],
+      "acompanyisimplementingawirelessnetworkandusingwirelessdevicesaspartofthecorporateenvironment.whichtwoserver-basedauthenticationmethodsshouldthecompanyconsiderinthewirelessnetworkdesign?(choosetwo.)": [
+        "RADIUS ",
+        "TACACS"
+      ],
+      "ausertriestoinstallanapplicationonawindows10propcbutitfails.theusertriestouninstalltheapplicationbutitfailstouninstall.whatoptioncanbeusedtoaddressthisissuewithoutlossofdataorapplications?": [
+        " Use Restore Point."
+      ],
+      "atechnicianistroubleshootingawindows10pcthatwillnotdoanywindowsupdatesautomaticallyormanually.whatoptioncanbeusedtoaddressthisissuewithoutlossofdataorapplications?": [
+        "Delete all the files in C:\\Windows\\SoftwareDistribution folder and restart the PC."
+      ],
+      "awindows10computersuddenlystartedexperiencingnetworkconnectivityissuesafterthelatestwindowsupdatescompletedaweekago.whatoptioncanbeusedtoaddressthisissuewithoutlossofdataorapplications?": [
+        "Reset this PC."
+      ],
+      "aclientinstalledanewdriverforadevicethreeweeksago;however,thisdriveriscausingthesystemtofreezeoccasionallyandtheclientwishestorevertbacktotheolddriver.whatoptioncanbeusedtoaddressthisissuewithoutlossofdataorapplications?": [
+        "Reset this PC."
+      ],
+      "atechnicianisworkingonawindows10pcthatkeepsfreezingoccasionallyafteradriverupdate.systemrestorehasbeenturnedoff.whatoptioncanbeusedtoaddressthisissuewithoutlossofdataorapplications?": [
+        "Reset this PC."
+      ],
+      "auseristryingtocreateanewwindowsdirectoryforstoringfilesrelatedtoanewproject.whatisthebestwindowscommandtoselecttodothejob?": [
+        "md"
+      ],
+      "auserhastoshutdownseveralremotecomputersoneatatime.whatisthebestwindowscommandtoselecttodothejob?": [
+        "shutdown"
+      ],
+      "auserhasanimportantfilethatisusedinmanyprojectsandneedstomovethatfiletoadifferentwindowsdirectorywhilemaintainingitinthecurrentlocation.whatisthebestwindowscommandtoselecttodothejob?": [
+        "copy"
+      ],
+      "auserneedstodisplayalistofcurrentprocessesrunningonalocaloraremotecomputer.whatisthebestwindowscommandtoselecttodothejob?": [
+        " tasklist"
+      ],
+      "auserhasjustinstalledanewharddriveintothepcandneedstoprepareittostorewindowsfiles.whatisthebestwindowscommandtoselecttodothejob?": [
+        " format"
+      ],
+      "auserisexperiencingissueswithsystemstartupandwithfailingtoopensomefiles.theuserwantstodeterminethesourceofanyharddriveissues.whatisthebestwindowscommandtoselecttodothejob?": [
+        "chkdsk"
+      ],
+      "ausersuspectssomeonehashackedintothepcandwantstoverifyactivityonthepcbydisplayingallactivetcpconnectionstothepc.whatisthebestwindowscommandtoselecttodothejob?": [
+        "netstat"
+      ],
+      "auserislookingforafilebutcannotfinditinthedocumentfolder.theuserwantstomovetothedownloaddirectorytocheckthere.whatisthebestwindowscommandtoselecttodothejob?": [
+        "cd"
+      ],
+      "auseristroubleshootingaconnectivityissuefromthepctoawebserverandwantstoseealistofthetrafficstopsbetweenthepcandthewebserver.whatisthebestwindowscommandtoselecttodothejob?": [
+        " tracert"
+      ],
+      "auserisreorganizingfileswithindifferentdirectoriestoaccommodatenewprojectsandneedstorelocateafilefromonewindowsdirectorytoanotherone.whatisthebestwindowscommandtoselecttodothejob?": [
+        " move"
+      ]
+    },
+    "chapter12": {
+      "whichtwolocationdatasourcescanlocatorappsusetodeterminethepositionofamobiledevice?(choosetwo.)": [
+        "cellular towers ",
+        "WiFi hotspots"
+      ],
+      "whataretwowaysthatiosdiffersfromandroid?(choosetwo.)": [
+        "iOS has a physical Home button, but Android uses navigation icons. ",
+        "In iOS, the icon for an app represents the app itself. Deleting the icon in iOS deletes the app. In Android, the icon on the Home screen is a shortcut to the app."
+      ],
+      "whataretwopurposesofthepasscodelockfeatureonmobiledevices?(choosetwo.)": [
+        "to help prevent theft of private information ",
+        "to prevent unauthorized use of the device"
+      ],
+      "refertotheexhibit.whattwostatementsaretrueaboutthemobileoperatingsystemscreenshown?(choosetwo.)": [
+        "The area enclosed by the red rectangle contains navigation icons.",
+        "This is an Android screen."
+      ],
+      "whichtwomethodsarecommonlyusedtoremovethedefaultrestrictionsandprotectionsaddedtomobileoperatingsystems?(choosetwo.)": [
+        " rooting ",
+        "jailbreaking"
+      ],
+      "alinuxadministratorwantstobackupcurrentfilesinadatadirectoryandstoretheminanewdirectoryonanotherdisk.whichtwocommandswouldbeneeded?(choosetwo.)": [
+        "cp",
+        "mkdir",
+        "The mkdir command is used to create the new directory and the cp command is used to copy files from one directory to another."
+      ],
+      "afilecallednew_resumehasthefollowingfilepermissions:rw-r-x–x.whattwofactscanbedeterminedfromthesepermissions?(choosetwo.)": [
+        "Members of the group have read and execute access to the file.",
+        "The user is able to read and modify the file.",
+        "Read, write, and execute permissions are assigned to each file. The permissions are listed in groups of three. The first group of three permissions references users, the second references group members, and the third references others. The first position of each of the three permissions is the R or read permission, the second is the W or write permission, and the third is the X or execute permission. If any position has a dash, the associated group does not have permission for that category. In this case, the user hasread and write access (rw-). Group members haveread and execute access (r-x). Other people haveexecute only access (–x)."
+      ],
+      "whatisagoodsourceforsafelydownloadingandroidapps?": [
+        "Google Play"
+      ],
+      "whatrepresentsappsinthewindowsphoneinterface?": [
+        "tiles"
+      ],
+      "whatistheresultofdoingafactoryresetonamobiledevice?": [
+        "All user data and settings will be deleted."
+      ],
+      "whatisthenameofthewindowsphone8.1digital,orvirtual,assistant?": [
+        "Cortana"
+      ],
+      "whatiswi-ficalling?": [
+        "a way to make mobile phone calls over a wireless data network"
+      ],
+      "whatisthepurposeofsignaturefilesusedtosecuremobiledevicesandoperatingsystems?": [
+        "They contain sample code from known viruses and malware that is used by security software to identify malicious software."
+      ],
+      "whatisapurposeofthebootmanagerprogram?": [
+        "It allows the user to select the OS to use to boot the device."
+      ],
+      "anadministratorisre-imagingalargenumberofmacosxmachines.whatbuilt-intoolorcommandcanbeusedtoremotelybootthecomputers?": [
+        "Netboot"
+      ],
+      "whattoolorcommandisusedinthemacosxtonavigatethefilesystem?": [
+        "Finder",
+        "Finder is similar to the Windows File Explorer tool and is used to navigate the Mac OS file system. The mstsc command is used to open the Windows Remote Desktop utility. The Task Manager tool on Windows allows a user to view all running applications."
+      ],
+      "whichmodeldoesappleusetoprovideiosappstocustomers?": [
+        "walled garden"
+      ],
+      "androidappsrunprimarilybasedonprivilegesenabledbytheuser.sometimesanandroidapprequiresextraprivilegestoaccesssystemcomponents.howdoandroidappsruntoaccomplishbothsituations?": [
+        "Android apps run in a sandbox."
+      ],
+      "whichnavigationicononthesystembarofanandroiddeviceisusedtoreturntothepreviousscreen?": [
+        "Back",
+        "The Back icon, if pressed, returns to the previous screen."
+      ],
+      "whichstatementdescribestheiosappiconsonamobiledevicescreen?": [
+        "Each icon represents the actual app."
+      ],
+      "whatisthepurposeofusingtheauto-brightnessfeatureonamobiledevicewithanlcdscreen?": [
+        "to conserve battery power"
+      ],
+      "whichstatementdescribesthetouchidiniosdevices?": [
+        "It is the hash value of the user fingerprint."
+      ],
+      "whichcloud-basedstorageservicedoesmicrosoftprovideforbackups?": [
+        "OneDrive"
+      ],
+      "amobiledeviceusernoticesthatthesystemupdateincludesanupdateoftheprimaryrateisdn(pri).whatisthefunctionofthepri?": [
+        "It is the configuration of the data rates between the device and the cell tower."
+      ],
+      "alinuxpcusernoticesthatthepcfreezesonstartupandexhibitskernelpanicwherethereisastopscreen.whatisapossiblecausefortheissue?": [
+        "A driver has become corrupted."
+      ],
+      "whatcommandisusedtoopenatexteditorinalinuxsystem?": [
+        "vim",
+        "The vim command is used to open a text editor; ls displays files within a directory; grep searches for strings of characters within a file; and ifconfig displays information about the network interface card."
+      ],
+      "whichlinuxfilesystemintroducedthejournaledfilesystem,whichcanbeusedtominimizetheriskoffilesystemcorruptionintheeventofasuddenpowerloss?": [
+        "ext3"
+      ],
+      "whatisthemostcommonlyusedmethodtocloseanapplicationthatappearstobefrozenonanosx-basedcomputer?": [
+        "Use Force Quit.",
+        "To use Force Quit, right-click on the application icon that is not responding from the Dock and close the application."
+      ],
+      "whichfilesystemistheprimaryfilesystemusedbyappleincurrentmacintoshcomputers?": [
+        "APFS"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“themobiledeviceshaveafeaturecalledspotlightthatisasearchtoolthatprovidesinformationfrommanysources.”towhichosdoesthisrelate:ios,android,orboth?": [
+        " iOS"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“thisosusesthesystembar,displayedatthebottomofeveryscreen,tonavigateappsandscreens.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "Android"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“thisoscanbeusedbyprogrammerstooperatedeviceslikelaptops,smarttvs,ande-bookreaders.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "Android"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“theicononthehomescreenisashortcuttotheapp.”towhichosdoesthisrelate:ios,android,orboth?": [
+        " Android"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“wifihotspotsarealocationdatasourcethatcanbeusedbylocatorappstodeterminethepositionofamobiledevice.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "both"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“remotebackupsareacloud-enabledserviceformobiledevices.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "both"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“gpssignalsareusedtoenablegeocaching,geotagginganddevicetrackingonthesemobiledevices.”towhichosdoesthisrelate:ios,android,orboth?": [
+        " both"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“thestartvoicecontrolfunctioncanbeperformedwiththehomebutton.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "iOS"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“tosynchronizeamobiledevicetoapc,itunesmustbeinstalledonthepc.”towhichosdoesthisrelate:ios,android,orboth?": [
+        " iOS"
+      ],
+      "aninstructorisdiscussingfactsaboutdifferentmobiledeviceoperatingsoftware.theinstructorstates:“whenthedeviceroamsoutoftherangeofanywi-finetworks,itcanconnecttothecellulardatanetworkifthisfeatureisenabled.”towhichosdoesthisrelate:ios,android,orboth?": [
+        "both"
+      ]
+    },
+    "chapter13": {
+      "whichtwoitemsareusedinasymmetricencryption?(choosetwo.)": [
+        "a private key ",
+        "a public key"
+      ],
+      "whichtwoalgorithmsareusedforhashencodingtoguaranteetheintegrityofdata?(choosetwo.)": [
+        " MD5",
+        "SHA"
+      ],
+      "ahightechnologycompanyhasanissuewithunauthorizedpeoplegainingaccessintothecompanybyfollowinganauthorizedemployeethroughthesecureentrance.whichtwomeasurescouldhelpwiththissecuritybreach?(choosetwo.)": [
+        "mantrap",
+        "security guard that checks IDs"
+      ],
+      "auserreceivesaphonecallfromapersonwhoclaimstorepresentitservicesandthenasksthatuserforconfirmationofusernameandpasswordforauditingpurposes.whichsecuritythreatdoesthisphonecallrepresent?": [
+        "social engineering"
+      ],
+      "theitdepartmentisreportingthatacompanywebserverisreceivinganabnormallyhighnumberofwebpagerequestsfromdifferentlocationssimultaneously.whichtypeofsecurityattackisoccurring?": [
+        "DDoS"
+      ],
+      "afterconfirmingtheremovalofavirusfromacomputer,howshouldthetechnicianensureandverifythefullfunctionalityofthesystem?": [
+        "Check for the latest OS patches and updates."
+      ],
+      "asystemadministratorhasbeenaskedtoprotectthesensitivedataonthewindows7computersofallmanagementemployees.whichwindowsfeaturecanbeusedtoselectivelyencryptindividualfileswithintheuseraccountsofeachmanager?​": [
+        "EFS"
+      ],
+      "whenwouldapcrepairpersonwanttodeploytheidletimeoutfeature?": [
+        "when users are leaving their desk but remaining logged on"
+      ],
+      "whichtypeoffirewallservesasarelaybetweenusersandserversontheinternet,inspectsalltraffic,andallowsordeniestrafficbasedonasetofrules?": [
+        "proxy firewall",
+        "There are several types of firewall configurations:\n"
+      ],
+      "whatwouldcauseamicrosoftwindowsupdatetofail?": [
+        "A required prior update was not installed.",
+        "Two things commonly cause a Windows update to fail:"
+      ],
+      "ausercallsthehelpdeskreportingthatalaptopisnotperformingasexpected.uponcheckingthelaptop,atechniciannoticesthatsomesystemfileshavebeenrenamedandfilepermissionshavechanged.whatcouldcausetheseproblems?": [
+        "The laptop is infected by a virus."
+      ],
+      "howcanusersworkingonasharedcomputerkeeptheirpersonalbrowsinghistoryhiddenfromotherworkersthatmayusethiscomputer?": [
+        "Operate the web browser in private browser mode."
+      ],
+      "aretailstorewantstosecurelaptopsthatareondisplay.thestoremanageralsowantsarecordofwhichemployeesenterthebackroomwhereinventoryiskept.whichsecurityoptionwouldworkbestforthissituation?": [
+        "cable locks and a token-based lock on the backroom"
+      ],
+      "refertotheexhibit.thesecuritypolicyofanorganizationallowsemployeestoconnecttotheofficeintranetfromtheirhomes.whichtypeofsecuritypolicyisthis?": [
+        "remote access"
+      ],
+      "ausernoticesthatfilescreatedandsavedlocallylastweekaremissingandasksthetechniciantoinvestigate.thetechniciansuspectstherehasbeenasecuritybreach.whichtypeofmalwarecouldberesponsible?": [
+        "Trojan"
+      ],
+      "agroupofusersonthesamenetworkareallcomplainingabouttheircomputersrunningslowly.afterinvestigating,thetechniciandeterminesthatthesecomputersarepartofazombienetwork.whichtypeofmalwareisusedtocontrolthesecomputers?": [
+        " botnet"
+      ],
+      "whataresignaturesastheyrelatetosecuritythreats?": [
+        "one or more code patterns within a specific type of malware"
+      ],
+      "acollegestudentlogsontoacollegecomputerforthefirsttime.whichsecuritypolicycategoryshouldbepresentedtothestudent?": [
+        "acceptable use policies"
+      ],
+      "atechnicianispreparingtoencryptacorporatedrivebyusingmicrosoftbitlocker.whichbiosoptionwillthetechnicianneedtoenable?": [
+        "TPM"
+      ],
+      "whichsecuritytechniqueordevicewipesthedatafromaharddrivebybeingplacednearthedriveplatterforatleast2minutes?": [
+        "degaussing wand"
+      ],
+      "refertotheexhibit.whichtypeofworkstationpasswordisbeingused?": [
+        "BIOS"
+      ],
+      "acustomerusesinternetexplorerandmicrosoftedgeasbrowsersonthecomputer.thecustomerasksthetechnicianhowtoconfigurethecomputertodetectandfilterphishingwebsites,toanalyzewebsitesforsuspiciousitems,andtocheckdownloadsagainstalistofknownmaliciousfilesandsites.whichwebsecurityfeatureshouldthetechniciandemonstrate?": [
+        "SmartScreen Filter",
+        "In Internet Explorer, use the Tools option to enable. In Microsoft Edge, use the three dotted icon to select Settings > View advanced settings to turn the Help protect me from malicious sites and downloads with Windows Defender SmartScreen option on."
+      ],
+      "asohocompanyhashiredatechniciantocomeinandconfigureandsecurethecomputers.thetechnicianhasdecidedtoconfigurealocalsecuritypolicyforthemachines.whichsettingwouldthetechnicianusetoensurethattheuserdidnotmaketheirpasswordthesameastheirownuseraccountname?": [
+        "meet complexity requirements",
+        "The Password must meet complexity requirements option requires that the user not make their own user account name or part of their user account name as their password. This option also requires that the password have at least three of the following: uppercase letter, lowercase letter, number, and symbol."
+      ],
+      "atechnicianisconfiguringrightsandpermissionsinwindows7.whichtoolwillthetechnicianuse?": [
+        "Local Users and Groups"
+      ],
+      "anittechnicianwantstocreatearuleontwowindows10computerstopreventaninstalledapplicationfromaccessingthepublicinternet.whichtoolwouldthetechnicianusetoaccomplishthistask?": [
+        "Windows Defender Firewall with Advanced Security"
+      ],
+      "anewlycreatedcompanyhasfifteenwindows10computersthatneedtobeinstalledbeforethecompanycanopenforbusiness.whatisabestpracticethatthetechnicianshouldimplementwhenconfiguringthewindowsfirewall?": [
+        "After implementing third party security software for the company, the technician should verify that the Windows Firewall is disabled."
+      ],
+      "whichtwostatementscharacterizewirelessnetworksecurity?(choosetwo.)": [
+        "With SSID broadcast disabled, an attacker must know the SSID to connect. ",
+        "Using the default IP address on an access point makes hacking easier."
+      ],
+      "amanagerapproachesapcrepairpersonwiththeissuethatusersarecomingintothecompanyinthemiddleofthenighttoplaygamesontheircomputers.whatmightthepcrepairpersondotohelpinthissituation?": [
+        "Limit the login times."
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstworms.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        "antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstransomware.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        " antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstspyware.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        " antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstkeyloggers.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        " antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstadwareprograms.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        "antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainstrootkits.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        "antimalware"
+      ],
+      "atechnicianhasbeenaskedbyamanagertorecommendasecuritysolutionforprotectingacomputeragainsttrojans.whichsecuritytechniqueshouldthetechnicianrecommend?": [
+        " antimalware"
+      ]
+    },
+    "chapter14": {
+      "whatisacommonresponsibilityofalevelonecallcentertechnician?": [
+        "entering a concise description of a customer problem into a ticketing system"
+      ],
+      "whichtwoprogramminglanguagesrequiretheprogramtobeconvertedintoexecutablecodeusingacompiler?(choosetwo.)": [
+        "C# ",
+        "Java"
+      ],
+      "aprogrammerusedanoperatortocomparevalueswithinaprogramandtheresultinglogicaldatatypewas“false”.whichtestconditionwouldhaveprovidedtheresultof“false”?": [
+        "8 != 8"
+      ],
+      "whatisthedefinitionofascriptfile?": [
+        "A simple text file used to automate processes and tasks."
+      ],
+      "asystemadministratorneedstoperformmanualupdatesonaremotelinuxworkstationusingawindows10pc.whichremoteaccesstoolshouldtheadministratorusetosecurelyaccessandconfigurethelinuxdeviceacrossthenetwork?": [
+        "SSH client"
+      ],
+      "atechnicianisattemptingtosecurelyconfigurealinuxwebserveronthepublic-facingsideofthefirewall.whatporttypeandnumberaremostlikelyrequiredtobeopenonthefirewalltoallowthistrafficthrough?": [
+        "TCP port 22"
+      ],
+      "aworkerintherecordsdepartmentofahospitalintheunitedstatesaccidentallysendsapatient’smedicalrecordtoaprinterinanotherdepartment.whentheworkerarrivesattheprinter,thepatientrecordprintoutismissing.whichtwotypesofcompliancestandardsbestmatchthebreachofconfidentiality?(choosetwo.)": [
+        "PHI",
+        "ePHI"
+      ],
+      "whataretwoexamplesofpersonallyidentifiableinformation(pii)?(choosetwo.)": [
+        "credit card number",
+        "street address"
+      ],
+      "whatisthedefinitionofcyberlaw?": [
+        "the collection of international, country, and local laws that affect computer security professionals"
+      ],
+      "whatisacharacteristicoftheopensourcelicenseofanapplicationsoftware?": [
+        "It allows users to modify and share the source code."
+      ],
+      "whichstatementischaracteristicofmostpersonalsoftwarelicenses?": [
+        "A user is allowed to install the software on only one computer."
+      ],
+      "whattwoactionsshouldacallcentertechnicianavoidwhendealingwithanangrycustomer?(choosetwo.)": [
+        "spending time explaining what caused the problem ",
+        "putting the customer on hold or transferring the call"
+      ],
+      "atechnicianistroubleshootingapcinaworkplaceenvironmentandfindsmanypiratedmoviesontheharddrive.whatshouldthetechniciando?": [
+        "Report the findings through the proper channels."
+      ],
+      "asupportdesktraineristeachinganewsupportdesktechniciansomebasicrulesaboutstartingaconversationwithacustomer.whichstatementdescribestherulesthetrainershouldbeteaching?": [
+        "Learn the name of the customer and create a connection with the customer. Next ask questions that assess the knowledge level of the customer."
+      ],
+      "acustomerisangryandcallstocomplainthattheservicescheduledonthecomputertooklongerthanexpected.thetechnicianreviewstheworkorderandnoticesthattheservicewasperformedbyanewemployee.howshouldthetechnicianrespond?": [
+        "Listen to the complaint and then apologize for any inconvenience caused by the lengthy service on the computer."
+      ],
+      "whichtaskwouldrequirethataproblembeescalatedtoaleveltwotechnician?": [
+        "changing CMOS settings"
+      ],
+      "atechnicianreceivesacallfromacustomerwhoistootalkative.howshouldthetechnicianhandlethecall?": [
+        "Allow the customer to speak without interruption and then try to use closed-ended questions to gather data."
+      ],
+      "whatshouldaleveltwotechniciandoimmediatelyafterreceivinganescalatedworkorderfromalevelonetechnician?": [
+        "Call the customer back to ask any additional questions and resolve the problem."
+      ],
+      "whichtworulespertaintothegeneraldailyactivitiesofemployeesinacallcenterenvironment?(choosetwo.)": [
+        "The technician should be sure to treat all customers equally.",
+        "The technician should contact the customer if the technician is going to be late for a follow-up appointment."
+      ],
+      "whatdoesatechnicianneedinordertomakechangestosoftwareinstalledonthecomputerofacustomer?": [
+        "customer authorization"
+      ],
+      "whichistrueregardingthetreatmentofcustomerproperty?": [
+        "A customer’s phone list is customer property and must be kept private."
+      ],
+      "duringcomputerforensicsinvestigations,whichtypeofdataislostwhenpowerisremovedfromthecomputer?": [
+        "data that is stored in RAM"
+      ],
+      "whyisachainofcustodyimportantinacybercrimecase?": [
+        "It authenticates evidence."
+      ],
+      "whenperformingcomputerforensics,whatcanbepreventedwithaproperlyandcarefullydocumentedchainofcustody?": [
+        "evidence tampering"
+      ],
+      "whichstatementbestdescribesacallcenter?": [
+        "It is a place that exists within a company and provides computer support to both employees and customers of the company."
+      ],
+      "whatisatypicaltaskperformedbyalevelonetechnicianinacallcenter?": [
+        "gathering information when a customer calls for help"
+      ],
+      "whatisareasontoescalateaproblemfromalevelonetechniciantoaleveltwotechnician?": [
+        "when drivers, applications, or operating systems need to be installed"
+      ],
+      "whichchangemanagementprocesscomponentisconcernedwiththecostandresourcesnecessaryforimplementation?": [
+        "assessment"
+      ],
+      "whichtypeofdocumentationisconcernedwithspecifyingwhatdatamustbecollectedandhowlongitmustberetainedinregardstoanorganization?": [
+        " policies"
+      ],
+      "whicharetwoexamplesofgoodcustomerservice?(choosetwo.)": [
+        "A technician follows up with a customer after services are completed. ",
+        "A technician notifies a customer as soon as possible that there may be a delay."
+      ]
+    }
+  }

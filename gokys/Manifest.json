@@ -1,0 +1,13 @@
+{
+    "content_scripts": [
+      {
+        "matches": ["https://translate.google.cz/*",
+                    "https://translate.google.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "manifest_version": 3,
+    "name": "Hello Extensions",
+    "description": "Base Level Extension",
+    "version": "1.0"
+  }
