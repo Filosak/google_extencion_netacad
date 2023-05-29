@@ -9,23 +9,37 @@ let mode = "ITE"
 // Linux / ITE
 
 // ITE
-// "chapter9"
-// "chapter10"
-// "chapter11"
-// "chapter12"
-// "chapter13"
-// "chapter14"
-// "chapter1-9"
-// "chapter10-11"
-// "chapter12-13"
-// "chapter10-14"
-// "practice-final1-9"
-// "practice-final10-14"
-// "final1-9"
-// "final10-14"
-// "final1-14"
-// "a220-1001"
-// "a220-1002"
+// chapter9
+// chapter10
+// chapter11
+// chapter12
+// chapter13
+// chapter14
+// chapter1-9
+// chapter10-11
+// chapter12-13
+// chapter10-14
+// practice-final1-9
+// practice-final10-14
+// final1-9
+// final10-14
+// final1-14
+// a220-1001
+// a220-1002
+
+// Linux
+// chapter10
+// chapter11
+// chapter12
+// chapter13
+// chapter14
+// chapter15
+// chapter16
+// chapter17
+// chapter18
+// midterm2-9
+// final10-18
+// final2-18
 
 
 
