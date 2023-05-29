@@ -8,6 +8,26 @@ let chapter = "chapter10"
 let mode = "ITE" 
 // Linux / ITE
 
+// ITE
+// "chapter9"
+// "chapter10"
+// "chapter11"
+// "chapter12"
+// "chapter13"
+// "chapter14"
+// "chapter1-9"
+// "chapter10-11"
+// "chapter12-13"
+// "chapter10-14"
+// "practice-final1-9"
+// "practice-final10-14"
+// "final1-9"
+// "final10-14"
+// "final1-14"
+// "a220-1001"
+// "a220-1002"
+
+
 
 let json_data = {
   "Linux": {
